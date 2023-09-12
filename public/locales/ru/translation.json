@@ -1,4 +1,8 @@
 {
   "toggle language": "english language",
   "main page": "главная страница",
+  "page not found": "Страница не найдена",
+  "something went wrong": "Произошла непредвиденная ошибка",
+  "try again": "Попробовать еще раз",
+  "bug button": "запустить throw error"
 }

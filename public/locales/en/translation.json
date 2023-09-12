@@ -1,4 +1,8 @@
 {
   "toggle language": "русский язык",
   "main page": "main page",
+  "page not found": "Page not found",
+  "something went wrong": "Something went wrong",
+  "try again": "Try again",
+  "bug button": "throw error"
 }
