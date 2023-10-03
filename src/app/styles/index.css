@@ -11,7 +11,7 @@
   --sidebar-width-collapsed: 80px;
 }
 
-.app.light {
+:root {
   --bg-color: #e8e8ea;
   --inverted-bg-color: #0a0a48;
   --primary-color: #0232c2;
@@ -20,7 +20,7 @@
   --inverted-secondary-color: #04ff04;
 }
 
-.app.dark {
+.dark {
   --bg-color: #0a0a48;
   --inverted-bg-color: #e8e8ea;
   --primary-color: #049604;
