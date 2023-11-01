@@ -7,13 +7,12 @@
 
 Typescript.
 React, react-router-dom.
-Redux/thunk.
-SCSS-modules.
+Redux/thunk.SCSS-modules.
 JWT авторизация.
 FSD архитектура.
-кастомный декомпозированный Webpack config.
-multi-language i18n.
+Кастомный декомпозированный Webpack config.
+Multi-language i18n.
 Storybook.
 Jest, Loki.
 CI pipeline.
-eslint + prettier.
+Eslint + prettier.
