@@ -1,8 +1,10 @@
 {
   "toggle language": "english language",
-  "main page": "главная страница",
+  "short language": "EN",
+  "main page": "Главная страница",
   "page not found": "Страница не найдена",
   "something went wrong": "Произошла непредвиденная ошибка",
   "try again": "Попробовать еще раз",
-  "bug button": "запустить throw error"
+  "bug button": "запустить throw error",
+  "about": "О сайте"
 }

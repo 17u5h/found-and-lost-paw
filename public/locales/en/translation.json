@@ -1,8 +1,10 @@
 {
   "toggle language": "русский язык",
-  "main page": "main page",
+  "short language": "RU",
+  "main page": "Main page",
   "page not found": "Page not found",
   "something went wrong": "Something went wrong",
   "try again": "Try again",
-  "bug button": "throw error"
+  "bug button": "throw error",
+  "about": "About us"
 }
