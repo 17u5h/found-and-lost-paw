@@ -6,5 +6,6 @@
   "something went wrong": "Произошла непредвиденная ошибка",
   "try again": "Попробовать еще раз",
   "bug button": "запустить throw error",
-  "about": "О сайте"
+  "about": "О сайте",
+  "login": "Войти"
 }
